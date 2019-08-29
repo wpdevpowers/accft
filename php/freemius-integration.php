@@ -32,7 +32,7 @@ $accft_fs = fs_dynamic_init( array(
 'menu'                => array(
 'slug'           => 'accft_fs_top_level_admin_menu',
 ),
-'secret_key'          => 'sk_Q[MQ*:z$=$=Ui(?CR::hupjJDI;#Y',
+
 ) );
 }
 return $accft_fs;
